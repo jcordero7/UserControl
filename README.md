@@ -1,4 +1,14 @@
 
+---
+### 2. Archivo README.md Genérico para **UserControl** (Backend / API de Identidad)
+
+# 🔑 UserControl (Identity & Access Management API)
+
+API REST centralizada de identidad, credenciales y gobernanza de usuarios diseñada para ecosistemas de aplicaciones distribuidas. Expone servicios de autenticación mediante tokens (JWT), registro de cuentas, flujos de recuperación de contraseñas, confirmación de identidad y control de acceso basado en roles por sistema o programa.
+
+Es el backend transaccional consumido por el cliente de Single Sign-On [`Accounts`](#repositorio-relacionado) y actúa como el motor de identidad unificado para todos los servicios y microservicios de la organización.
+
+---
 
 ## 🛠️ Arquitectura de Seguridad y SSO
 
