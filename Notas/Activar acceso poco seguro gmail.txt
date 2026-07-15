@@ -1,0 +1,6 @@
+CÓMO HABILITAR LAS APLICACIONES POCO SEGURAS EN GMAIL
+1.  Ir a configuracion, en la rueda
+2.- Luego dar click en “Cuenta de Google”
+3.- Click en “Seguridad”
+4.- Ir al apartado “Acceso de aplicaciones poco seguras” y dar click en “Activar acceso”
+5.- Finalmente activar “Permitir el acceso de aplicaciones poco seguras”

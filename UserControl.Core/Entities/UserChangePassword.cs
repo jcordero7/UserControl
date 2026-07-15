@@ -1,0 +1,15 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace UserControl.Core.Entities
+{
+   public class UserChangePassword
+   {
+        public int Id { get; set; }
+
+        public string PasswordActual { get; set; }
+        public string PasswordNueva { get; set; }
+
+    }
+}

@@ -1,0 +1,24 @@
+Buenos días,
+Tengo una duda.!  Siguiendo la (clean architecture) decidí crear el proyecto Application como una biblioteca .Net Standard, 
+Dentro de este proyecto he creado dos carpetas (Services/(PostService), Interfaces/(IpostService)) la duda que tengo es, 
+Las interfaces las puedo dejar dentro del proyecto Application o las tengo que pasar al proyecto Core a la carpeta Interfaces 
+para cumplir con la clean architecture.
+ Es decir todas las Interfaces de la solución pueden ir dentro del proyecto Core/Interfaces o Cada proyecto puede tener sus 
+interfaces independientes. Muchas gracias
+
+1
+
+
+David Espinosa
+David Espinosa
+Hace 2 meses
+Hola Faber, Alguien me ayudó a resolver esta clase dilema si me hago esta pregunta: 
+Si me pidieran extraer solamente la capa Core para llevarla a implementar en otro lenguaje --como Java, ¿me llevaría conmigo este 
+interfaz también?  
+
+La pregunta de trasfondo es: Debe Core adueñarse de este Interfaz para que las capas exteriores sepan que deben implementarla? 
+La respuesta a tu pregunta es que cada proyecto puede tener sus interfaces independientes pero depende de la respuesta a esta pregunta.
+
+Espero estas ayudas te hayan servido y que Jhonatan esté bien.
+
+

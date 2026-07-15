@@ -1,0 +1,6 @@
+3:57 PM 10/1/2020
+se debe deshabilitar que no valide el ssl
+
+A la hora de mandar a insertar un registro se debe cambiar el tipo de dato
+de text/plain a application/json, se debe deshabilitar el anterior 
+y crear uno nuevo 
