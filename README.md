@@ -1,6 +1,5 @@
 ---
-
-### 2. Archivo `README.md` Genérico para **UserControl** (Backend / API de Identidad)
+### 2. Archivo README.md Genérico para **UserControl** (Backend / API de Identidad)
 
 ```markdown
 # 🔑 UserControl (Identity & Access Management API)
